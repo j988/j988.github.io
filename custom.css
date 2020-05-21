@@ -50,7 +50,7 @@ body{
 }
 .aboutContainer h1,.contactBody h1{
   font-family: "Helvetica" !important;
-  font-size: 200px;
+  font-size: 15vh;
   margin-top: 150px;
   line-height: 0px;
   height: 20px;
@@ -62,8 +62,8 @@ body{
 .aboutContainer p{
   position: relative;
   font-family: Helvetica !important;
-  font-size: 32px;
-  line-height: 38px;
+  font-size: 2.4vh;
+  line-height: 2.6vh;
   top: 80px;
   left: 20px;
   width: 750px;
@@ -86,4 +86,8 @@ body{
 .topcontainer h5{
   padding-bottom: 5px;
 
+}
+
+.contactf{
+  margin-left: 2.5%;
 }
